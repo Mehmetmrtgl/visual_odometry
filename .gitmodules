@@ -1,0 +1,9 @@
+[submodule "src/zed-ros2-wrapper"]
+	path = src/zed-ros2-wrapper
+	url = https://github.com/Mehmetmrtgl/zed-ros2-wrapper.git
+[submodule "src/Xsens_MTi_ROS_Driver_and_Ntrip_Client"]
+	path = src/Xsens_MTi_ROS_Driver_and_Ntrip_Client
+	url = https://github.com/Mehmetmrtgl/Xsens_MTi_ROS_Driver_and_Ntrip_Client.git
+[submodule "src/open_vins"]
+	path = src/open_vins
+	url = https://github.com/Mehmetmrtgl/open_vins.git
