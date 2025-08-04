@@ -1,0 +1,8 @@
+# --- ROS 2 workspace (colcon) ---
+build/
+install/
+log/
+
+# CMake & catkin leftovers
+CMakeLists.txt.user
+cmake-build-*/
